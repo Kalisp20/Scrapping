@@ -23,7 +23,7 @@ def get_all_url
     get_the_email
     @email.each do |email|
         puts email
-        ends
+        end
         
     end
 end
